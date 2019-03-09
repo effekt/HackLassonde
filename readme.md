@@ -10,7 +10,7 @@ If you would like to run the example or want to use the files to follow along do
 - In another terminal, run mongod --dpath=C:\HackLassondeData
 - In the first terminal, navigate to the examples directory and run node server
 
-Requirements:
+### Essential Software for Workshop:
 
 [MongoDB](https://www.mongodb.com/)
 
