@@ -1,0 +1,27 @@
+{
+  "name": "HackLassonde",
+  "version": "1.0.0",
+  "description": "Presented by Jesse Wheeler for the York University HackLassonde Hackathon",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effekt/HackLassonde.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/effekt/HackLassonde/issues"
+  },
+  "homepage": "https://github.com/effekt/HackLassonde#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.18"
+  }
+}
